@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "nodemon src/app.js"
+    },
+    "type": "module",
+    "dependencies": {
+        "express": "^4.18.2",
+        "momnet": "^2.29.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
